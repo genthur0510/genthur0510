@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Genthur</h1>
 <h3 align="center">A passionate Mobile Developer from Indonesia</h3>
-<img align ="right" alt ="Coding" width"400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp4ZWZpM2sweG93NmhycHgxZGM1b3JsdnFpamZneml3enNlYjVvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIv3NuURRxgJO/giphy.webp">
+<img align ="right" alt ="Coding" width"400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp4ZWZpM2sweG93NmhycHgxZGM1b3JsdnFpamZneml3enNlYjVvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIv3NuURRxgJO/giphy.webp](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE5OGdudDF4MDRzOXFhOGtuZGo4cDR6NjlzdzRuN3QyYXB0M3BxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genthur0510&label=Profile%20views&color=0e75b6&style=flat" alt="genthur0510" /> </p>
 
