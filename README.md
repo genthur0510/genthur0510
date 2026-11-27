@@ -20,15 +20,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 📱 **Mobile Developer** yang berfokus pada pengembangan aplikasi lintas platform menggunakan **Flutter** serta aplikasi native **Android (Kotlin)**.
-- 🏗️ Berpengalaman menerapkan struktur kode terukur (**MVVM & Clean Architecture**), *state management* (**GetX**), serta integrasi **REST API** dan layanan *real-time*.
-- 🎨 Antusias mengubah desain antarmuka menjadi aplikasi yang responsif, presisi, dan nyaman digunakan (**UI/UX Slicing**).
-- 📫 Terbuka untuk diskusi proyek maupun peluang kolaborasi melalui **[genthurteges@gmail.com](mailto:genthurteges@gmail.com)**.
-
----
-
 ### 🛠️ Languages & Tech Stack
 
 <p align="center">
